@@ -1,5 +1,6 @@
-# mattendance
+DBMS project under the guidance of Prof. Jaytrilok Chaudhary
 
-#Installation
+An interactive platform where teachers and students can keep a track record of attendance and save a considerable amount of time.
 
-1. Install wamp/xampp server.
+Installation
+Install wamp/xampp server
