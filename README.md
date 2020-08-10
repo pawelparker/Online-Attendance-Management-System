@@ -1,1 +1,5 @@
-# Online-Attendance-Management-System
+# mattendance
+
+#Installation
+
+1. Install wamp/xampp server.
